@@ -1,0 +1,357 @@
+﻿Flight/Train/Ship number;Departure & arrival;Date of travel;Related probable/confirmed cases;Seat Number (if known)
+Diamond Princess;Yokohama, Japan → Hong Kong → Yokohama, Japan;Since 20/01/2020;Case 14, 71, 78, 79, 80, 81, 87, 88, 94, 96, 97 and an outbreak reported by the health authority of Japan;Diamond Princess
+Flight BA0323;Paris → London;03/03/2020;Case 106;Flight BA0323
+Flight BA27;London → Hong Kong;04/03/2020;Case 106;Flight BA27
+Ferry;Central → Cheung Chau;04/03/2020 9:45am;Case 107;Ferry
+Ferry;Cheung Chau → Central;04/03/2020 1:45pm;Case 107;Ferry
+Flight CX838;Hong Kong → Vancouver;06/03/2020;Case 157 and 158;Flight CX838
+Flight TK695;Cairo → Istanbul;07/03/2020 (Arrival in Istanbul);Case 119-121, 123-127 and 129;Flight TK695
+Flight TK70;Istanbul → Hong Kong;07/03/2020;Case 119-121, 123-127 and 129;Flight TK70
+Flight CX320;Madrid → Hong Kong;08/03/2020 (Arrival in Hong Kong);Case notified by Health Commission of Guangdong Province and Case 122;Flight CX320
+Taxi;Hong Kong International Airport → Shenzhen Bay Port;08/03/2020;Case notified by Health Commission of Guangdong Province;Taxi
+Flight CX930;Manila → Hong Kong;08/03/2020;Case 132;Flight CX930
+Taxi;Hong Kong International Airport → Serene Court, 35 Sai Ning Street;08/03/2020;Case 132;Taxi
+Flight CX250;London → Hong Kong;08/03/2020 (Arrival in Hong Kong);Case 134;Flight CX250
+Taxi;Hong Kong International Airport → Ng Tung Chai, Lam Tsuen;08/03/2020 1:30pm;Case 134;Taxi
+Flight HV5760;Morocco → Amsterdam;08/03/2020;Case 137 and 142;Flight HV5760
+Flight CX857;Seattle → Hong Kong;09/03/2020 (Arrival in Hong Kong);Case notified by the National Health Commission;Flight CX857
+Flight KA900;Hong Kong → Beijing;09/03/2020;Case notified by the National Health Commission;Flight KA900
+Flight KL887;Amsterdam → Hong Kong;09/03/2020 (Arrival in Hong Kong);Case 137 and 142;Flight KL887
+Ferry;Central → Cheung Chau;10/03/2020 7:40am;Case 123;Ferry
+Flight CX260;Paris → Hong Kong;10/03/2020 (Arrival in Hong Kong);Case notified by Health Commission of Guangdong Province;Flight CX260
+Taxi UF1749;Hong Kong International Airport → Shenzhen Bay Port;10/03/2020;Case notified by Health Commission of Guangdong Province;Taxi UF1749
+Taxi;"iPlace → Princess Margaret Hospital ";10/03/2020 (Arrived Princess Margaret Hospital at 5:45pm);Case 130 and 131;Taxi
+"Taxi ";Princess Margaret Hospital → iPlace;10/03/2020 9pm;Case 131;"Taxi "
+Flight NH811;Tokyo → Hong Kong;10/03/2020 (Arrival in Hong Kong);Case 136 and a case confirmed in Japan;Flight NH811
+Flight CX845;New York → Hong Kong;10/03/2020 (Arrival in Hong Kong);Case notified by the health authority of Singapore;Flight CX845
+Flight CX759;Hong Kong → Singapore;10/03/2020;Case notified by the health authority of Singapore;Flight CX759
+Flight CX171;Hong Kong → Perth;10/03/2020;Case notified by the health authority of Australia;Flight CX171
+Flight CX811;Boston → Hong Kong;10/03/2020 (Arrival in Hong Kong);Case 147, 148 and 167;Flight CX811
+Flight EK380;Dubai → Hong Kong;10/03/2020;Case 151;Flight EK380
+Flight HX782;Manila → Hong Kong;11/03/2020 (Arrival in Hong Kong);Case notified by the Health Commission of Guangdong province;Flight HX782
+Taxi;Queen Mary Hospital → Serene Court, 35 Sai Ning Street;11/03/2020 1:15pm and 12/03/2020 11am;Case 132;Taxi
+Flight EK142;Madrid → Dubai;11/03/2020 (Arrival in Dubai);Case 139;Flight EK142
+Flight EK380;Dubai → Hong Kong;11/03/2020;Case 139;Flight EK380
+Flight BA31;"London → Hong Kong ";11/03/2020 (Arrival in Hong Kong);Case 141;Flight BA31
+Flight JL2504;Hokkaido → Osaka;11/03/2020;Case 143 and 153;Flight JL2504
+Flight CX561;Osaka → Hong Kong;11/03/2020 (Arrival in Hong Kong);Case 143 and 153;Flight CX561
+Flight CX320;Madrid → Hong Kong;11/03/2020 (Arrival in Hong Kong);Case 161;Flight CX320
+Flight LX138;Zurich → Hong Kong;11/03/2020 (Arrival in Hong Kong);Case 168;Flight LX138
+Flight CX902;Manila → Hong Kong;13/03/2020 (Arrival in Hong Kong);Case notified by the Health Commission of Guangdong province;Flight CX902
+Flight LH119;Munich → Frankfurt;12/03/2020;Case 144;Flight LH119
+Flight LH796;Frankfurt → Hong Kong;13/03/2020 (Arrival in Hong Kong);Case 144 and case notified by the Health Commission of Guangdong province;Flight LH796
+Flight CX260;Paris → Hong Kong;13/03/2020 (Arrival in Hong Kong);Case 145, 146 and 159;Flight CX260
+Flight EK380;Dubai → Hong Kong;13/03/2020 (Arrival in Hong Kong);Case notified by the Health Bureau of Macao Special Administrative Region;Flight EK380
+Flight BA0953;Munich → London;13/03/2020;Case 154;Flight BA0953
+Flight MS960;Cairo → Bangkok →  Hong Kong;14/03/2020 (Arrival in Hong Kong);Case 152;Flight MS960
+Flight BA0027;London → Hong Kong;14/03/2020;Case 154;Flight BA0027
+Flight CX382;Zurich → Hong Kong;14/03/2020 (Arrival in Hong Kong);Case notified by the Health Commission of Guangdong province;Flight CX382
+Flight KA5930;Manila → Hong Kong;14/03/2020 (Arrival in Hong Kong);Case notified by the Health Commission of Guangdong province;Flight KA5930
+Flight CX857;Seattle → Hong Kong;14/03/2020 (Arrival in Hong Kong);Case notified by the Health Commission of Guangdong province;Flight CX857
+Flight BA0733;Geneva → London;14/03/2020;Case 160;Flight BA0733
+Flight CX270;"Netherlands → Hong Kong ";15/03/2020 (Arrival in Hong Kong);Case 150;Flight CX270
+Flight CX837;Vancouver → Hong Kong;15/03/2020 (Arrival in Hong Kong);Case 157 and 158;Flight CX837
+Flight BA33;"London → Kuala Lumpur ";15/03/2020 (Arrival in Kuala Lumpur);Case 160 and 164;Flight BA33
+Flight MH78;Kuala Lumpur → Hong Kong;15/03/2020;Case 160;Flight MH78
+Flight QR160;Copenhagen → Doha;15/03/2020;Case 165;Flight QR160
+Flight LH796;Frankfurt → Hong Kong;15/03/2020 (Arrival in Hong Kong);Case notified by the Health Commission of Guangdong province;Flight LH796
+Flight HX782;Manila → Hong Kong;15/03/2020 (Arrival in Hong Kong);Case notified by the Health Commission of Guangdong province;Flight HX782
+Flight CX5734;Kuala Lumpur → Hong Kong;16/03/2020;Case 164;Flight CX5734
+Flight QR818;Doha → Hong Kong;16/03/2020;Case 165;Flight QR818
+Flight BA0027;London → Hong Kong;16/3/2020 (Arrival in Hong Kong);Case 166;Flight BA0027
+Flight CX256;London → Hong Kong;19/03/2020;290;48H
+Flight CX252;London → Hong Kong;19/03/2020;292;67G
+Flight CX256;London → Hong Kong;19/03/2020;300;44E
+Flight CX256;London → Hong Kong;19/03/2020;324;44F
+Flight TG638;Bangkok → Hong Kong;19/03/2020;370;35K
+Flight SQ856;Singapore → Hong Kong;19/03/2020;409;36D
+Flight CX254;London → Hong Kong;19/03/2020;454;65C
+Flight CX716;Singapore → Hong Kong;19/03/2020;492;68K
+Flight CX930;Manila → Hong Kong;19/03/2020;Case notified by the Health Commission of Guangdong province;71H
+Flight KA734;Kuala Lumpur → Hong Kong;20/03/2020;295;50A
+Flight CX216;Manchester → Hong Kong;20/03/2020;296;61B
+Flight LH796;Frankfurt → Hong Kong;20/03/2020;305;4G
+Flight AC007;Vancouver → Hong Kong;20/03/2020;306;30H
+Flight LH796;Frankfurt → Hong Kong;20/03/2020;307;33H
+Flight CX658;Singapore → Hong Kong;20/03/2020;329;40D
+Flight BR869;Taipei → Hong Kong;20/03/2020;350;47D
+Flight BR869;Taipei → Hong Kong;20/03/2020;351;47C
+Flight CX746;Dubai → Hong Kong;20/03/2020;352;59A
+Flight CX930;Manila → Hong Kong;20/03/2020;383;57A
+Flight CX250;London → Hong Kong;20/03/2020;418;41H
+Flight LH796;Frankfurt → Hong Kong;20/03/2020;436;40G
+Flight AC007;Vancouver → Hong Kong;20/03/2020;444;25C
+Flight QR818;Doha → Hong Kong;20/03/2020;482;36E
+Flight HX780;Bangkok → Hong Kong;20/03/2020;681;56K
+Flight CX254;London → Hong Kong;20/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;70C
+Flight CX238;London → Hong Kong;21/03/2020;330;68J
+Flight QR818;Doha → Hong Kong;21/03/2020;331;21F
+Flight QR818;Doha → Hong Kong;21/03/2020;335;21E
+Flight QR818;Doha → Hong Kong;21/03/2020;344;21D
+Flight CX250;London → Hong Kong;21/03/2020;353;74E
+Flight VS206;London → Hong Kong;21/03/2020;417;9A
+Flight CX250;London → Hong Kong;21/03/2020;446;32K
+Flight CX252;London → Hong Kong;21/03/2020;508;33A
+Flight CX845;New York → Hong Kong;21/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;45E
+Flight CX845;New York → Hong Kong;21/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;45F
+Flight CX252;London → Hong Kong;21/03/2020;Case notified by the Health Commission of Guangdong province;43J
+Flight BA027;London → Hong Kong;21/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;71D
+Flight CX256;London → Hong Kong;22/03/2020;355;71D
+Flight CX250;London → Hong Kong;22/03/2020;356;17D
+Flight BA27;London → Hong Kong;22/03/2020;357;76D
+Flight CX216;Manchester → Hong Kong;22/03/2020;365;61H
+Flight EK380;Dubai → Hong Kong;22/03/2020;398;70G
+Flight TG638;Bangkok → Hong Kong;22/03/2020;399;63K
+Flight BA27;London → Hong Kong;22/03/2020;408;66F
+Flight CX250;London → Hong Kong;22/03/2020;420;59A
+Flight CX252;London → Hong Kong;22/03/2020;430;63A
+Flight CX250;London → Hong Kong;22/03/2020;474;49K
+Flight CX845;New York → Hong Kong;22/03/2020;522;33F
+Flight CX845;New York → Hong Kong;22/03/2020;523;33E
+Flight CX256;London → Hong Kong;22/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;63K
+Flight CX288;Frankfurt → Hong Kong;22/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;32K
+Flight CX260;Paris → Hong Kong;23/03/2020;382;43A
+Flight CX748;Johannesburg → Hong Kong;23/03/2020;403;32B
+Flight VS206;London → Hong Kong;23/03/2020;439;25H
+Flight CX156;Brisbane → Hong Kong;23/03/2020;461;20K
+Flight BA027;London → Hong Kong;23/03/2020;470;29C
+Flight KL887;Amsterdam → Hong Kong;23/03/2020;472;37H
+Flight KL887;Amsterdam → Hong Kong;23/03/2020;478;30B
+Flight LX138;Zurich → Hong Kong;23/03/2020;488;30K
+Flight LX138;Zurich → Hong Kong;23/03/2020;489;26K
+Flight VS206;London → Hong Kong;23/03/2020;490;24K
+Flight CX238;London → Hong Kong;23/03/2020;494;47H
+Flight CX260;Paris → Hong Kong;23/03/2020;520;64K
+Flight VS206;London → Hong Kong;23/03/2020;624;49A
+Flight VS206;London → Hong Kong;23/03/2020;675;6A
+Flight CX238;London → Hong Kong;23/03/2020;765;Unknown
+Flight EK380;Dubai → Hong Kong;24/03/2020;425;68F
+Flight EK380;Dubai → Hong Kong;24/03/2020;426;63K
+Flight CX104;Melbourne → Hong Kong;24/03/2020;427;Row75/76
+Flight CX104;Melbourne → Hong Kong;24/03/2020;443;Row75/76
+Flight CX845;New York → Hong Kong;24/03/2020;459;32A
+Flight EK380;Dubai → Hong Kong;24/03/2020;532;87D
+Flight BA027;London → Hong Kong;24/03/2020;536;Row 70
+Flight CX256;London → Hong Kong;24/03/2020;542;60G
+Flight CX256;London → Hong Kong;24/03/2020;548;39H
+Flight QR818;Doha → Hong Kong;24/03/2020;569;3F
+Flight CX716;Singapore → Hong Kong;24/03/2020;599;43E
+Flight CX252;London → Hong Kong;24/03/2020;629;Unknown
+Flight NH1929;Tokyo → Hong Kong;24/03/2020;716;Unknown
+Flight EK380;Dubai → Hong Kong;24/03/2020;790;49B
+Flight CX716;Singapore → Hong Kong;24/03/2020;794;Unknown
+Flight SQ860;Shanghai → Hong Kong;24/03/2020;Case notified by the Health Commission of Guangdong province;22A
+Flight CX893;San Francisco → Hong Kong;24/03/2020;Case notified by the National Health Commission;41H
+Flight CX930;Manila → Hong Kong;24/03/2020;Case notified by the National Health Commission;41A
+Flight CX893;San Francisco → Hong Kong;24/03/2020;Case notified by the National Health Commission;30E
+Flight BA027;London → Hong Kong;25/03/2020;445;38D
+Flight CX845;New York → Hong Kong;25/03/2020;448;33A
+Flight BA27;London → Hong Kong;25/03/2020;449;40A
+Flight CX930;Manila → Hong Kong;25/03/2020;456;48H
+Flight CX238;London → Hong Kong;25/03/2020;457;67E
+Flight LX138;Zurich → Hong Kong;25/03/2020;518;42G
+Flight CX238;London → Hong Kong;25/03/2020;537;43K
+Flight CX252;London → Hong Kong;25/03/2020;538;11A
+Flight QR818;Doha → Hong Kong;25/03/2020;539;6J
+Flight LX138;Zurich → Hong Kong;25/03/2020;540;25G
+Flight CX238;London → Hong Kong;25/03/2020;543;39A
+Flight CX252;London → Hong Kong;25/03/2020;544;34A
+Flight KL887;Amsterdam → Hong Kong;25/03/2020;545;16J
+Flight KL887;Amsterdam → Hong Kong;25/03/2020;546;17J
+Flight BA027;London → Hong Kong;25/03/2020;547;20D
+Flight CX 238;London → Hong Kong;25/03/2020;550;33C
+Flight LX138;Zurich → Hong Kong;25/03/2020;551;12F
+Flight CX238;London → Hong Kong;25/03/2020;552;39H
+Flight KL887;Amsterdam → Hong Kong;25/03/2020;553;24B
+Flight BA027;London → Hong Kong;25/03/2020;554;35J
+Flight CX238;London → Hong Kong;25/03/2020;555;46G
+Flight CX252;London → Hong Kong;25/03/2020;556;69H
+Flight CX252;London → Hong Kong;25/03/2020;557;63H
+Flight LX318;Zurich → Hong Kong;25/03/2020;558;39F
+Flight KL887;Amsterdam → Hong Kong;25/03/2020;560;21E
+Flight CX206;London → Hong Kong;25/03/2020;572;61D
+Flight MH72;Kuala Lumpur → Hong Kong;25/03/2020;580;23G
+Flight BA27;London → Hong Kong;25/03/2020;591;12G
+Flight KL887;Amsterdam → Hong Kong;25/03/2020;593;41A
+Flight LX138;Zurich → Hong Kong;25/03/2020;600;31G
+Flight CX252;London → Hong Kong;25/03/2020;676;69D
+Flight CX845;New York → Hong Kong;25/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;43C
+Flight QR818;Doha → Hong Kong;26/03/2020;502;33D
+Flight CX256;London → Hong Kong;26/03/2020;505;33F
+Flight CX250;London → Hong Kong;26/03/2020;506;64F
+Flight CX845;New York → Hong Kong;26/03/2020;521;59J
+Flight CX881;Los Angeles → Hong Kong;26/03/2020;527;1D
+Flight CX845;New York → Hong Kong;26/03/2020;530;59K
+Flight CX250;London → Hong Kong;26/03/2020;559;30F
+Flight CX256;London → Hong Kong;26/03/2020;583;69H
+Flight CX845;New York → Hong Kong;26/03/2020;589;12K, 22K
+Flight CX216;Manchester → Hong Kong;26/03/2020;594;62D
+Flight CX873;San Francisco → Hong Kong;26/03/2020;595;19A
+Flight BA027;London → Hong Kong;26/03/2020;597;74G
+Flight CX250;London → Hong Kong;26/03/2020;598;42C
+Flight CX256;London → Hong Kong;26/03/2020;602;55C
+Flight CX256;London → Hong Kong;26/03/2020;603;63E
+Flight CX845;New York → Hong Kong;26/03/2020;604;64G
+Flight CX256;London → Hong Kong;26/03/2020;605;55A
+Flight CX256;London → Hong Kong;26/03/2020;647;30K
+Flight CX250;London → Hong Kong;26/03/2020;651;63K
+Flight BA27;London → Hong Kong;27/03/2020;601;10B
+Flight CX250;London → Hong Kong;27/03/2020;606;67D
+Flight CX845;New York → Hong Kong;27/03/2020;607;22K
+Flight QR818;Doha → Hong Kong;27/03/2020;639;28K
+Flight CX256;London → Hong Kong;27/03/2020;641;Cabin crew
+Flight CX250;London → Hong Kong;27/03/2020;645;59A
+Flight BA27;London → Hong Kong;27/03/2020;648;10A
+Flight BA27;London → Hong Kong;27/03/2020;654;24J, 24K
+Flight CX256;London → Hong Kong;27/03/2020;655;40F
+Flight CX 250;London → Hong Kong;27/03/2020;658;43E
+Flight BA27;London → Hong Kong;27/03/2020;665;58K
+Flight BA27;London → Hong Kong;27/03/2020;666;58J
+Flight QR818;Doha → Hong Kong;27/03/2020;678;25K
+Flight CX845;New York →  Hong Kong;27/03/2020;721;59C
+Flight VS206;London → Hong Kong;27/03/2020;741;60J
+Flight BA27;London → Hong Kong;27/03/2020;764;2K
+Flight CX865;Vancouver →  Hong Kong;27/03/2020;795;19K
+Flight VS206;London → Hong Kong;27/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;21G
+Flight QR818;Doha → Hong Kong;28/03/2020;636;30A
+Flight CX238;London → Hong Kong;28/03/2020;642;54B
+Flight CX216;Manchester → Hong Kong;28/03/2020;656;59A
+Flight BA27;London → Hong Kong;28/03/2020;661;62K
+Flight CX784;Bali → Hong Kong;28/03/2020;668;15A
+Flight CX 250;London → Hong Kong;28/03/2020;669;20D
+Flight CX216;Manchester → Hong Kong;28/03/2020;672;12D
+Flight HX782;Manila → Hong Kong;28/03/2020;673;32C
+Flight CX256;London → Hong Kong;28/03/2020;688;65K
+Flight VS206;London → Hong Kong;28/03/2020;690;58C
+Flight CX857;Seattle → Hong Kong;28/03/2020;693;44G
+Flight VS206;London → Hong Kong;28/03/2020;694;6A
+Flight BA27;London → Hong Kong;28/03/2020;695;71G
+Flight CX238;London → Hong Kong;28/03/2020;699;71K
+Flight BA 27;London → Hong Kong;28/03/2020;724;73K
+Flight BA 27;London → Hong Kong;28/03/2020;725;72J or 72K
+Flight CX256;London → Hong Kong;28/03/2020;726;53F
+Flight BA 27;London → Hong Kong;28/03/2020;734;26G
+Flight GA876;Jakarta → Hong Kong;29/03/2020;685;43C
+Flight CX238;London → Hong Kong;29/03/2020;700;52K
+Flight CX260;Paris → Hong Kong;29/03/2020;715;19D
+Flight VS206;London → Hong Kong;29/03/2020;722;46J
+Flight BA27;London → Hong Kong;29/03/2020;723;39G
+Flight CX252;London → Hong Kong;29/03/2020;727;65A
+Flight CX252;London → Hong Kong;29/03/2020;728;69A
+Flight CX238;London → Hong Kong;29/03/2020;730;39G
+Flight CX238;London → Hong Kong;29/03/2020;731;66D
+Flight CX260;France → Hong Kong;29/03/2020;732;19G
+Flight CX881;Los Angeles → Hong Kong;29/03/2020;733;63G
+Flight BA27;London → Hong Kong;29/03/2020;735;15B
+Flight CX252;London → Hong Kong;29/03/2020;736;40A
+Flight CX260;France → Hong Kong;29/03/2020;749;62K
+Flight CX252;London → Hong Kong;29/03/2020;753;Economy class (Cabin crew)
+Flight CX238;London → Hong Kong;29/03/2020;787;G61
+Flight CX831;New York →  Hong Kong;30/03/2020;771;62C
+Flight CX811;Boston → Hong Kong;30/03/2020;776;11D
+Flight CX851;San Francisco →Hong Kong;30/03/2020;777;44J
+Flight CX831;New York → Hong Kong;30/03/2020;780;11K
+Flight CX831;New York → Hong Kong;30/03/2020;781;39G
+Flight CX256;London → Hong Kong;30/03/2020;783;50D
+Flight CX256;London → Hong Kong;30/03/2020;788;32D
+Flight CX831;New York → Hong Kong;30/03/2020;789;62G
+Flight CX252;London → Hong Kong;30/03/2020;791;33H
+Flight GA876;Jakarta → Hong Kong;31/03/2020;744;32H
+Flight CX216;Manchester → Hong Kong;31/03/2020;745;70K
+Flight VS206;London → Hong Kong;31/03/2020;762;62J
+Flight VS206;London → Hong Kong;31/03/2020;763;62H
+Flight CX252;London → Hong Kong;31/03/2020;766;43A
+Flight CX252;London → Hong Kong;31/03/2020;784;19A
+Flight CX216;Manchester → Hong Kong;31/03/2020;786;44A
+Flight BA 27;London → Hong Kong;01/04/2020;803;Unknown
+Diamond Princess;Yokohama, Japan → Hong Kong → Yokohama, Japan;Since 20/01/2020;14, 71, 78, 79, 80, 81, 87, 88, 94, 96, 97 and an outbreak reported by the health authority of Japan;
+CX252;London;04/04/2020;892;1K
+CX216;Manchester;04/04/2020;893;32D
+CX252;London;04/04/2020;896;62H
+VS206;London;04/04/2020;916;25C
+BA27;London;04/04/2020;917;41K
+CX521;Tokyo;04/04/2020;918;46D
+CX521;Tokyo;04/04/2020;919;39D, 40D
+CX841;New York;04/04/2020;920;32D
+CX260;Paris;04/04/2020;921;62J
+BA27;London;04/04/2020;922;41J
+CX260;Paris;04/04/2020;940;11G
+CX252;London;04/04/2020;950;46D
+CX841;New York;04/04/2020;964;A2
+CX260;Paris;04/04/2020;966;63K
+BA27;London;05/04/2020;907;39A
+BA27;London;05/04/2020;908;39B
+BA27;London;05/04/2020;909;37J
+BA27;London;05/04/2020;910;43H
+BA27;London;05/04/2020;911;43J
+JL29;Tokyo;05/04/2020;937;Unknown
+BA27;London;05/04/2020;939;24K
+KA734;Kuala Lumpur;05/04/2020;948;61H
+CX252;London;05/04/2020;965;33F
+CX252;London;05/04/2020;970;65K
+CX252;London;06/04/2020;927;44A
+CX881;Los Angeles;06/04/2020;938;68H
+VS206;London;06/04/2020;962;60D
+VS206;London;06/04/2020;963;48C
+VS206;London;06/04/2020;969;22F
+CX252;London;07/04/2020;982;68K
+CX252;London;07/04/2020;993;60A
+CX252;London;07/04/2020;1009;16G/D
+CX252;London;08/04/2020;967;64A
+CX906;Manila;08/04/2020;981;42A
+CX865;Vancouver;08/04/2020;983;Row 70/71
+CX865;Vancouver;08/04/2020;984;16A
+CX252;London;08/04/2020;985;67D
+CX252;London;08/04/2020;987;32A
+GA876;Jakarta;08/04/2020;988;6K
+GA876;Jakarta;08/04/2020;1007;6H
+CX252;London;09/04/2020;980;64B
+CX252;London;09/04/2020;986;26K
+CX521;Tokyo;09/04/2020;1000;11K
+CX521;Tokyo;09/04/2020;1001;19A
+CX521;Tokyo;09/04/2020;1002;65D
+CX252;London;10/04/2020;994;60H
+CX252;London;10/04/2020;995;15K
+QR818;Doha;10/04/2020;999;21A
+CX252;London;10/04/2020;1023;60J
+VS206;London;12/04/2020;1006;59G
+VS206;London;12/04/2020;1010;55G
+CX881;Los Angeles;13/04/2020;1011;44D
+CX881;Los Angeles;13/04/2020;1012;30A
+CX252;London;14/04/2020;1014;48D
+VS206;London;14/04/2020;1016;61A
+QR818;Doha;14/04/2020;1017;3A
+VS206;London;16/04/2020;1019;7K
+VS206;London;16/04/2020;1020;64D
+VS206;London;16/04/2020;1021;46H
+CX906;Manila;17/04/2020;1024;63D
+Carol Princess Cruise;Arrival in Miami;04/04/2020;1006;
+Minibus 407/407A;Kwai Fong MTR Station → PMH;13/04/2020 (2:00-2:30PM);1015;
+CX881;Los Angeles;20/04/2020;1027;22D
+CX881;Los Angeles;20/04/2020;1028;20G
+VS206;London;20/04/2020;1029;58J
+VS206;London;20/04/2020;1030;47A
+CX252;London;21/04/2020;1031;17A
+CX252;London;21/04/2020;1032;63D
+CX252;London;21/04/2020;1033;48A
+QR818;Doha;21/04/2020;1035;17H
+CX252;London;24/04/2020;1037;65G
+CX252;London;28/04/2020;Case confirmed in United Kingdom;48D
+CX881;Los Angeles;04/05/2020;1041;48H
+QR818;Doha;06/05/2020;1042;42K
+QR818;Doha;06/05/2020;1043;35F
+QR818;Doha;06/05/2020;1044;28H
+QR818;Doha;06/05/2020;1045;33E
+QR818;Doha;09/05/2020;1046;17H
+QR818;Doha;09/05/2020;1047;2J
+QR818;Doha;09/05/2020;1051;34F
+CX252;London;10/05/2020;1048;62G
+BA27;London;10/05/2020;Overseas case;32F
+CX881;Los Angeles;20/04/2020;1027;22D
+CX881;Los Angeles;20/04/2020;1028;20G
+VS206;London;20/04/2020;1029;58J
+VS206;London;20/04/2020;1030;47A
+CX252;London;21/04/2020;1031;17A
+CX252;London;21/04/2020;1032;63D
+CX252;London;21/04/2020;1033;48A
+QR818;Doha;21/04/2020;1035;17H

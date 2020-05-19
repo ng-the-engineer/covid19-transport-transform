@@ -17,13 +17,12 @@ import (
 func validateFormat(rd *csv.Reader) (bool, string) {
 	rowCnt := 0
 
-	columnCount := 4
+	columnCount := 5
 
 	problemRows := []string{}
 
 	for {
 		row, err := rd.Read()
-
 		if err == io.EOF {
 			break
 		}

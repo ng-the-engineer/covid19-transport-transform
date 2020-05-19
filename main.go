@@ -9,7 +9,7 @@ import (
 
 func main() {
 
-	csvfile, err := os.Open("covid19.csv")
+	csvfile, err := os.Open("./csv_files/full_list_cleaned.csv")
 
 	if err != nil {
 		log.Fatalln("Could not open the csv file", err)
@@ -19,5 +19,8 @@ func main() {
 
 	isValid, probRows := validateFormat(rec)
 
-	fmt.Println("Row(s) has problem:", isValid, probRows)
+	fmt.Println("Format:", isValid)
+	if len(probRows) > 0 {
+		fmt.Println("Problem rows:", probRows)
+	}
 }

@@ -13,7 +13,7 @@ func TestValidateFormatWithWrongFormat(t *testing.T) {
 
 	expectedProbRows := "3,5"
 
-	csvfile, err := os.Open("./tests/test_wrong_format.csv")
+	csvfile, err := os.Open("./csv_files/test_wrong_format.csv")
 
 	if err != nil {
 		log.Fatalln("Could not open the csv file", err)
@@ -37,7 +37,31 @@ func TestValidateFormatWithRightFormat(t *testing.T) {
 
 	expectedProbRows := ""
 
-	csvfile, err := os.Open("./tests/test_right_format.csv")
+	csvfile, err := os.Open("./csv_files/test_right_format.csv")
+
+	if err != nil {
+		log.Fatalln("Could not open the csv file", err)
+	}
+
+	rec := csv.NewReader(csvfile)
+
+	actualIsValid, actualProbRows := validateFormat(rec)
+
+	if actualIsValid != expectedIsValid {
+		t.Errorf("isValid is expected true but the actaul result is %v", actualIsValid)
+	}
+
+	if actualProbRows != expectedProbRows {
+		t.Errorf("probRows is expected empty string but the actaul result is %v", actualProbRows)
+	}
+}
+
+func TestSample(t *testing.T) {
+	expectedIsValid := true
+
+	expectedProbRows := ""
+
+	csvfile, err := os.Open("./csv_files/full_list_cleaned.csv")
 
 	if err != nil {
 		log.Fatalln("Could not open the csv file", err)
