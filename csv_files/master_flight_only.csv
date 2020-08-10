@@ -1,0 +1,657 @@
+Flight/Train/Ship number;airline;flight_number;Departure & arrival;Origin_formula;Destination_formula;origin;destination;Date of travel;arrival_date;Related probable/confirmed cases;case_number;Seat Number (if known);seat_no
+BA0323;BA;0323;Paris → London;Paris;London;Paris;London;03/03/2020;03/03/2020;Case 106;106;BA0323;
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;04/03/2020;04/03/2020;Case 106;106;BA27;
+CX838;CX;838;Hong Kong → Vancouver;Hong Kong;Vancouver;Hong Kong;Vancouver;06/03/2020;06/03/2020;Case 157 and 158;157 and 158;CX838;
+TK695;TK;695;Cairo → Istanbul;Cairo;Istanbul;Cairo;Istanbul;07/03/2020 (Arrival in Istanbul);07/03/2020;Case 119-121- 123-127 and 129;119-121- 123-127 and 129;TK695;
+TK70;TK;70;Istanbul → Hong Kong;Istanbul;Hong Kong;Istanbul;Hong Kong;07/03/2020;07/03/2020;Case 119-121- 123-127 and 129;119-121- 123-127 and 129;TK70;
+CX320;CX;320;Madrid → Hong Kong;Madrid;Hong Kong;Madrid;Hong Kong;08/03/2020 (Arrival in Hong Kong);08/03/2020;Case notified by Health Commission of Guangdong Province and Case 122;notified by Health Commission of Guangdong Province and Case 122;CX320;
+CX930;CX;930;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;08/03/2020;08/03/2020;Case 132;132;CX930;
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;08/03/2020 (Arrival in Hong Kong);08/03/2020;Case 134;134;CX250;
+HV5760;HV;5760;Morocco → Amsterdam;Morocco;Amsterdam;Morocco;Amsterdam;08/03/2020;08/03/2020;Case 137 and 142;137 and 142;HV5760;
+CX857;CX;857;Seattle → Hong Kong;Seattle;Hong Kong;Seattle;Hong Kong;09/03/2020 (Arrival in Hong Kong);09/03/2020;Case notified by the National Health Commission;notified by the National Health Commission;CX857;
+KA900;KA;900;Hong Kong → Beijing;Hong Kong;Beijing;Hong Kong;Beijing;09/03/2020;09/03/2020;Case notified by the National Health Commission;notified by the National Health Commission;KA900;
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;09/03/2020 (Arrival in Hong Kong);09/03/2020;Case 137 and 142;137 and 142;KL887;
+CX260;CX;260;Paris → Hong Kong;Paris;Hong Kong;Paris;Hong Kong;10/03/2020 (Arrival in Hong Kong);10/03/2020;Case notified by Health Commission of Guangdong Province;notified by Health Commission of Guangdong Province;CX260;
+NH811;NH;811;Tokyo → Hong Kong;Tokyo;Hong Kong;Tokyo;Hong Kong;10/03/2020 (Arrival in Hong Kong);10/03/2020;Case 136 and a case confirmed in Japan;136 and a case confirmed in Japan;NH811;
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;10/03/2020 (Arrival in Hong Kong);10/03/2020;Case notified by the health authority of Singapore;notified by the health authority of Singapore;CX845;
+CX759;CX;759;Hong Kong → Singapore;Hong Kong;Singapore;Hong Kong;Singapore;10/03/2020;10/03/2020;Case notified by the health authority of Singapore;notified by the health authority of Singapore;CX759;
+CX171;CX;171;Hong Kong → Perth;Hong Kong;Perth;Hong Kong;Perth;10/03/2020;10/03/2020;Case notified by the health authority of Australia;notified by the health authority of Australia;CX171;
+CX811;CX;811;Boston → Hong Kong;Boston;Hong Kong;Boston;Hong Kong;10/03/2020 (Arrival in Hong Kong);10/03/2020;Case 147- 148 and 167;147- 148 and 167;CX811;
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;10/03/2020;10/03/2020;Case 151;151;EK380;
+HX782;HX;782;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;11/03/2020 (Arrival in Hong Kong);11/03/2020;Case notified by the Health Commission of Guangdong province;notified by the Health Commission of Guangdong province;HX782;
+EK142;EK;142;Madrid → Dubai;Madrid;Dubai;Madrid;Dubai;11/03/2020 (Arrival in Dubai);11/03/2020;Case 139;139;EK142;
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;11/03/2020;11/03/2020;Case 139;139;EK380;
+BA31;BA;31;London → Hong Kong ;London;Hong Kong ;London;Hong Kong ;11/03/2020 (Arrival in Hong Kong);11/03/2020;Case 141;141;BA31;
+JL2504;JL;2504;Hokkaido → Osaka;Hokkaido;Osaka;Hokkaido;Osaka;11/03/2020;11/03/2020;Case 143 and 153;143 and 153;JL2504;
+CX561;CX;561;Osaka → Hong Kong;Osaka;Hong Kong;Osaka;Hong Kong;11/03/2020 (Arrival in Hong Kong);11/03/2020;Case 143 and 153;143 and 153;CX561;
+CX320;CX;320;Madrid → Hong Kong;Madrid;Hong Kong;Madrid;Hong Kong;11/03/2020 (Arrival in Hong Kong);11/03/2020;Case 161;161;CX320;
+LX138;LX;138;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;11/03/2020 (Arrival in Hong Kong);11/03/2020;Case 168;168;LX138;
+CX902;CX;902;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;13/03/2020 (Arrival in Hong Kong);13/03/2020;Case notified by the Health Commission of Guangdong province;notified by the Health Commission of Guangdong province;CX902;
+LH119;LH;119;Munich → Frankfurt;Munich;Frankfurt;Munich;Frankfurt;12/03/2020;12/03/2020;Case 144;144;LH119;
+LH796;LH;796;Frankfurt → Hong Kong;Frankfurt;Hong Kong;Frankfurt;Hong Kong;13/03/2020 (Arrival in Hong Kong);13/03/2020;Case 144 and case notified by the Health Commission of Guangdong province;144 and case notified by the Health Commission of Guangdong province;LH796;
+CX260;CX;260;Paris → Hong Kong;Paris;Hong Kong;Paris;Hong Kong;13/03/2020 (Arrival in Hong Kong);13/03/2020;Case 145- 146 and 159;145- 146 and 159;CX260;
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;13/03/2020 (Arrival in Hong Kong);13/03/2020;Case notified by the Health Bureau of Macao Special Administrative Region;notified by the Health Bureau of Macao Special Administrative Region;EK380;
+BA0953;BA;0953;Munich → London;Munich;London;Munich;London;13/03/2020;13/03/2020;Case 154;154;BA0953;
+MS960;MS;960;Cairo → Bangkok →  Hong Kong;Cairo;Bangkok →  Hong Kong;Cairo, Bangkok ;Hong Kong;14/03/2020 (Arrival in Hong Kong);14/03/2020;Case 152;152;MS960;
+BA0027;BA;0027;London → Hong Kong;London;Hong Kong;London;Hong Kong;14/03/2020;14/03/2020;Case 154;154;BA0027;
+CX382;CX;382;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;14/03/2020 (Arrival in Hong Kong);14/03/2020;Case notified by the Health Commission of Guangdong province;notified by the Health Commission of Guangdong province;CX382;
+KA5930;KA;5930;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;14/03/2020 (Arrival in Hong Kong);14/03/2020;Case notified by the Health Commission of Guangdong province;notified by the Health Commission of Guangdong province;KA5930;
+CX857;CX;857;Seattle → Hong Kong;Seattle;Hong Kong;Seattle;Hong Kong;14/03/2020 (Arrival in Hong Kong);14/03/2020;Case notified by the Health Commission of Guangdong province;notified by the Health Commission of Guangdong province;CX857;
+BA0733;BA;0733;Geneva → London;Geneva;London;Geneva;London;14/03/2020;14/03/2020;Case 160;160;BA0733;
+CX270;CX;270;Netherlands → Hong Kong ;Netherlands;Hong Kong ;Netherlands;Hong Kong ;15/03/2020 (Arrival in Hong Kong);15/03/2020;Case 150;150;CX270;
+CX837;CX;837;Vancouver → Hong Kong;Vancouver;Hong Kong;Vancouver;Hong Kong;15/03/2020 (Arrival in Hong Kong);15/03/2020;Case 157 and 158;157 and 158;CX837;
+BA33;BA;33;London → Kuala Lumpur ;London;Kuala Lumpur ;London;Kuala Lumpur ;15/03/2020 (Arrival in Kuala Lumpur);15/03/2020;Case 160 and 164;160 and 164;BA33;
+MH78;MH;78;Kuala Lumpur → Hong Kong;Kuala Lumpur;Hong Kong;Kuala Lumpur;Hong Kong;15/03/2020;15/03/2020;Case 160;160;MH78;
+QR160;QR;160;Copenhagen → Doha;Copenhagen;Doha;Copenhagen;Doha;15/03/2020;15/03/2020;Case 165;165;QR160;
+LH796;LH;796;Frankfurt → Hong Kong;Frankfurt;Hong Kong;Frankfurt;Hong Kong;15/03/2020 (Arrival in Hong Kong);15/03/2020;Case notified by the Health Commission of Guangdong province;notified by the Health Commission of Guangdong province;LH796;
+HX782;HX;782;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;15/03/2020 (Arrival in Hong Kong);15/03/2020;Case notified by the Health Commission of Guangdong province;notified by the Health Commission of Guangdong province;HX782;
+CX5734;CX;5734;Kuala Lumpur → Hong Kong;Kuala Lumpur;Hong Kong;Kuala Lumpur;Hong Kong;16/03/2020;16/03/2020;Case 164;164;CX5734;
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;16/03/2020;16/03/2020;Case 165;165;QR818;
+BA0027;BA;0027;London → Hong Kong;London;Hong Kong;London;Hong Kong;16/3/2020 (Arrival in Hong Kong);16/3/2020 ;Case 166;166;BA0027;
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;19/03/2020;19/03/2020;290;290;48H;48H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;19/03/2020;19/03/2020;292;292;49H;49H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;19/03/2020;19/03/2020;300;300;50H;50H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;19/03/2020;19/03/2020;324;324;51H;51H
+TG638;TG;638;Bangkok → Hong Kong;Bangkok;Hong Kong;Bangkok;Hong Kong;19/03/2020;19/03/2020;370;370;52H;52H
+SQ856;SQ;856;Singapore → Hong Kong;Singapore;Hong Kong;Singapore;Hong Kong;19/03/2020;19/03/2020;409;409;53H;53H
+CX254;CX;254;London → Hong Kong;London;Hong Kong;London;Hong Kong;19/03/2020;19/03/2020;454;454;54H;54H
+CX716;CX;716;Singapore → Hong Kong;Singapore;Hong Kong;Singapore;Hong Kong;19/03/2020;19/03/2020;492;492;55H;55H
+CX930;CX;930;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;19/03/2020;19/03/2020;Case notified by the Health Commission of Guangdong province;Case notified by the Health Commission of Guangdong province;56H;56H
+KA734;KA;734;Kuala Lumpur → Hong Kong;Kuala Lumpur;Hong Kong;Kuala Lumpur;Hong Kong;20/03/2020;20/03/2020;295;295;57H;57H
+CX216;CX;216;Manchester → Hong Kong;Manchester;Hong Kong;Manchester;Hong Kong;20/03/2020;20/03/2020;296;296;58H;58H
+LH796;LH;796;Frankfurt → Hong Kong;Frankfurt;Hong Kong;Frankfurt;Hong Kong;20/03/2020;20/03/2020;297;297;59H;59H
+AC007;AC;007;Vancouver → Hong Kong;Vancouver;Hong Kong;Vancouver;Hong Kong;20/03/2020;20/03/2020;298;298;60H;60H
+LH796;LH;796;Frankfurt → Hong Kong;Frankfurt;Hong Kong;Frankfurt;Hong Kong;20/03/2020;20/03/2020;299;299;61H;61H
+CX658;CX;658;Singapore → Hong Kong;Singapore;Hong Kong;Singapore;Hong Kong;20/03/2020;20/03/2020;300;300;62H;62H
+BR869;BR;869;Taipei → Hong Kong;Taipei;Hong Kong;Taipei;Hong Kong;20/03/2020;20/03/2020;301;301;63H;63H
+BR869;BR;869;Taipei → Hong Kong;Taipei;Hong Kong;Taipei;Hong Kong;20/03/2020;20/03/2020;302;302;64H;64H
+CX746;CX;746;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;20/03/2020;20/03/2020;303;303;65H;65H
+CX930;CX;930;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;20/03/2020;20/03/2020;304;304;66H;66H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;20/03/2020;20/03/2020;305;305;67H;67H
+LH796;LH;796;Frankfurt → Hong Kong;Frankfurt;Hong Kong;Frankfurt;Hong Kong;20/03/2020;20/03/2020;306;306;68H;68H
+AC007;AC;007;Vancouver → Hong Kong;Vancouver;Hong Kong;Vancouver;Hong Kong;20/03/2020;20/03/2020;307;307;69H;69H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;20/03/2020;20/03/2020;308;308;70H;70H
+HX780;HX;780;Bangkok → Hong Kong;Bangkok;Hong Kong;Bangkok;Hong Kong;20/03/2020;20/03/2020;309;309;71H;71H
+CX254;CX;254;London → Hong Kong;London;Hong Kong;London;Hong Kong;20/03/2020;20/03/2020;310;310;72H;72H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;21/03/2020;21/03/2020;311;311;73H;73H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;21/03/2020;21/03/2020;312;312;74H;74H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;21/03/2020;21/03/2020;313;313;75H;75H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;21/03/2020;21/03/2020;314;314;76H;76H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;21/03/2020;21/03/2020;315;315;77H;77H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;21/03/2020;21/03/2020;316;316;78H;78H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;21/03/2020;21/03/2020;317;317;79H;79H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;21/03/2020;21/03/2020;318;318;80H;80H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;21/03/2020;21/03/2020;319;319;81H;81H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;21/03/2020;21/03/2020;320;320;82H;82H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;21/03/2020;21/03/2020;321;321;83H;83H
+BA027;BA;027;London → Hong Kong;London;Hong Kong;London;Hong Kong;21/03/2020;21/03/2020;322;322;84H;84H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;323;323;85H;85H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;324;324;86H;86H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;325;325;87H;87H
+CX216;CX;216;Manchester → Hong Kong;Manchester;Hong Kong;Manchester;Hong Kong;22/03/2020;22/03/2020;326;326;88H;88H
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;22/03/2020;22/03/2020;327;327;89H;89H
+TG638;TG;638;Bangkok → Hong Kong;Bangkok;Hong Kong;Bangkok;Hong Kong;22/03/2020;22/03/2020;328;328;90H;90H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;329;329;91H;91H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;330;330;92H;92H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;331;331;93H;93H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;332;332;94H;94H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;22/03/2020;22/03/2020;333;333;95H;95H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;22/03/2020;22/03/2020;334;334;96H;96H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;22/03/2020;22/03/2020;335;335;97H;97H
+CX288;CX;288;Frankfurt → Hong Kong;Frankfurt;Hong Kong;Frankfurt;Hong Kong;22/03/2020;22/03/2020;336;336;98H;98H
+CX260;CX;260;Paris → Hong Kong;Paris;Hong Kong;Paris;Hong Kong;23/03/2020;23/03/2020;337;337;99H;99H
+CX748;CX;748;Johannesburg → Hong Kong;Johannesburg;Hong Kong;Johannesburg;Hong Kong;23/03/2020;23/03/2020;338;338;100H;100H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;23/03/2020;23/03/2020;339;339;101H;101H
+CX156;CX;156;Brisbane → Hong Kong;Brisbane;Hong Kong;Brisbane;Hong Kong;23/03/2020;23/03/2020;340;340;102H;102H
+BA027;BA;027;London → Hong Kong;London;Hong Kong;London;Hong Kong;23/03/2020;23/03/2020;341;341;103H;103H
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;23/03/2020;23/03/2020;342;342;104H;104H
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;23/03/2020;23/03/2020;343;343;105H;105H
+LX138;LX;138;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;23/03/2020;23/03/2020;344;344;106H;106H
+LX138;LX;138;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;23/03/2020;23/03/2020;345;345;107H;107H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;23/03/2020;23/03/2020;346;346;108H;108H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;23/03/2020;23/03/2020;347;347;109H;109H
+CX260;CX;260;Paris → Hong Kong;Paris;Hong Kong;Paris;Hong Kong;23/03/2020;23/03/2020;348;348;110H;110H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;23/03/2020;23/03/2020;349;349;111H;111H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;23/03/2020;23/03/2020;350;350;112H;112H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;23/03/2020;23/03/2020;351;351;113H;113H
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;24/03/2020;24/03/2020;352;352;114H;114H
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;24/03/2020;24/03/2020;353;353;115H;115H
+CX104;CX;104;Melbourne → Hong Kong;Melbourne;Hong Kong;Melbourne;Hong Kong;24/03/2020;24/03/2020;354;354;116H;116H
+CX104;CX;104;Melbourne → Hong Kong;Melbourne;Hong Kong;Melbourne;Hong Kong;24/03/2020;24/03/2020;355;355;117H;117H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;24/03/2020;24/03/2020;356;356;118H;118H
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;24/03/2020;24/03/2020;357;357;119H;119H
+BA027;BA;027;London → Hong Kong;London;Hong Kong;London;Hong Kong;24/03/2020;24/03/2020;358;358;120H;120H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;24/03/2020;24/03/2020;359;359;121H;121H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;24/03/2020;24/03/2020;360;360;122H;122H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;24/03/2020;24/03/2020;361;361;123H;123H
+CX716;CX;716;Singapore → Hong Kong;Singapore;Hong Kong;Singapore;Hong Kong;24/03/2020;24/03/2020;362;362;124H;124H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;24/03/2020;24/03/2020;363;363;125H;125H
+NH1929;NH;1929;Tokyo → Hong Kong;Tokyo;Hong Kong;Tokyo;Hong Kong;24/03/2020;24/03/2020;364;364;126H;126H
+EK380;EK;380;Dubai → Hong Kong;Dubai;Hong Kong;Dubai;Hong Kong;24/03/2020;24/03/2020;365;365;127H;127H
+CX716;CX;716;Singapore → Hong Kong;Singapore;Hong Kong;Singapore;Hong Kong;24/03/2020;24/03/2020;366;366;128H;128H
+SQ860;SQ;860;Shanghai → Hong Kong;Shanghai;Hong Kong;Shanghai;Hong Kong;24/03/2020;24/03/2020;367;367;129H;129H
+CX893;CX;893;San Francisco → Hong Kong;San Francisco;Hong Kong;San Francisco;Hong Kong;24/03/2020;24/03/2020;368;368;130H;130H
+CX930;CX;930;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;24/03/2020;24/03/2020;369;369;131H;131H
+CX893;CX;893;San Francisco → Hong Kong;San Francisco;Hong Kong;San Francisco;Hong Kong;24/03/2020;24/03/2020;370;370;132H;132H
+BA027;BA;027;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;371;371;133H;133H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;25/03/2020;25/03/2020;372;372;134H;134H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;373;373;135H;135H
+CX930;CX;930;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;25/03/2020;25/03/2020;374;374;136H;136H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;375;375;137H;137H
+LX138;LX;138;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;25/03/2020;25/03/2020;376;376;138H;138H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;377;377;139H;139H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;378;378;140H;140H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;25/03/2020;25/03/2020;379;379;141H;141H
+LX138;LX;138;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;25/03/2020;25/03/2020;380;380;142H;142H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;381;381;143H;143H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;382;382;144H;144H
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;25/03/2020;25/03/2020;383;383;145H;145H
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;25/03/2020;25/03/2020;384;384;146H;146H
+BA027;BA;027;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;385;385;147H;147H
+CX 238;CX; 238;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;386;386;148H;148H
+LX138;LX;138;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;25/03/2020;25/03/2020;387;387;149H;149H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;388;388;150H;150H
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;25/03/2020;25/03/2020;389;389;151H;151H
+BA027;BA;027;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;390;390;152H;152H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;391;391;153H;153H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;392;392;154H;154H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;393;393;155H;155H
+LX318;LX;318;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;25/03/2020;25/03/2020;394;394;156H;156H
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;25/03/2020;25/03/2020;395;395;157H;157H
+CX206;CX;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;396;396;158H;158H
+MH72;MH;72;Kuala Lumpur → Hong Kong;Kuala Lumpur;Hong Kong;Kuala Lumpur;Hong Kong;25/03/2020;25/03/2020;397;397;159H;159H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;398;398;160H;160H
+KL887;KL;887;Amsterdam → Hong Kong;Amsterdam;Hong Kong;Amsterdam;Hong Kong;25/03/2020;25/03/2020;399;399;161H;161H
+LX138;LX;138;Zurich → Hong Kong;Zurich;Hong Kong;Zurich;Hong Kong;25/03/2020;25/03/2020;400;400;162H;162H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;25/03/2020;25/03/2020;401;401;163H;163H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;25/03/2020;25/03/2020;402;402;164H;164H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;26/03/2020;26/03/2020;403;403;165H;165H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;404;404;166H;166H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;405;405;167H;167H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;26/03/2020;26/03/2020;406;406;168H;168H
+CX881;CX;881;Los Angeles → Hong Kong;Los Angeles;Hong Kong;Los Angeles;Hong Kong;26/03/2020;26/03/2020;407;407;169H;169H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;26/03/2020;26/03/2020;408;408;170H;170H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;409;409;171H;171H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;410;410;172H;172H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;26/03/2020;26/03/2020;411;411;173H;173H
+CX216;CX;216;Manchester → Hong Kong;Manchester;Hong Kong;Manchester;Hong Kong;26/03/2020;26/03/2020;412;412;174H;174H
+CX873;CX;873;San Francisco → Hong Kong;San Francisco;Hong Kong;San Francisco;Hong Kong;26/03/2020;26/03/2020;413;413;175H;175H
+BA027;BA;027;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;414;414;176H;176H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;415;415;177H;177H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;416;416;178H;178H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;417;417;179H;179H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;26/03/2020;26/03/2020;418;418;180H;180H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;419;419;181H;181H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;420;420;182H;182H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;26/03/2020;26/03/2020;421;421;183H;183H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;422;422;184H;184H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;423;423;185H;185H
+CX845;CX;845;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;27/03/2020;27/03/2020;424;424;186H;186H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;27/03/2020;27/03/2020;425;425;187H;187H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;426;426;188H;188H
+CX250;CX;250;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;427;427;189H;189H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;428;428;190H;190H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;429;429;191H;191H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;430;430;192H;192H
+CX 250;CX; 250;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;431;431;193H;193H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;432;432;194H;194H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;433;433;195H;195H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;27/03/2020;27/03/2020;434;434;196H;196H
+CX845;CX;845;New York →  Hong Kong;New York; Hong Kong;New York;Hong Kong;27/03/2020;27/03/2020;435;435;197H;197H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;436;436;198H;198H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;437;437;199H;199H
+CX865;CX;865;Vancouver →  Hong Kong;Vancouver; Hong Kong;Vancouver;Hong Kong;27/03/2020;27/03/2020;438;438;200H;200H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;27/03/2020;27/03/2020;439;439;201H;201H
+QR818;QR;818;Doha → Hong Kong;Doha;Hong Kong;Doha;Hong Kong;28/03/2020;28/03/2020;440;440;202H;202H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;441;441;203H;203H
+CX216;CX;216;Manchester → Hong Kong;Manchester;Hong Kong;Manchester;Hong Kong;28/03/2020;28/03/2020;442;442;204H;204H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;443;443;205H;205H
+CX784;CX;784;Bali → Hong Kong;Bali;Hong Kong;Bali;Hong Kong;28/03/2020;28/03/2020;444;444;206H;206H
+CX 250;CX; 250;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;445;445;207H;207H
+CX216;CX;216;Manchester → Hong Kong;Manchester;Hong Kong;Manchester;Hong Kong;28/03/2020;28/03/2020;446;446;208H;208H
+HX782;HX;782;Manila → Hong Kong;Manila;Hong Kong;Manila;Hong Kong;28/03/2020;28/03/2020;447;447;209H;209H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;448;448;210H;210H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;449;449;211H;211H
+CX857;CX;857;Seattle → Hong Kong;Seattle;Hong Kong;Seattle;Hong Kong;28/03/2020;28/03/2020;450;450;212H;212H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;451;451;213H;213H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;452;452;214H;214H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;453;453;215H;215H
+BA 27;BA; 27;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;454;454;216H;216H
+BA 27;BA; 27;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;455;455;217H;217H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;456;456;218H;218H
+BA 27;BA; 27;London → Hong Kong;London;Hong Kong;London;Hong Kong;28/03/2020;28/03/2020;457;457;219H;219H
+GA876;GA;876;Jakarta → Hong Kong;Jakarta;Hong Kong;Jakarta;Hong Kong;29/03/2020;29/03/2020;458;458;220H;220H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;459;459;221H;221H
+CX260;CX;260;Paris → Hong Kong;Paris;Hong Kong;Paris;Hong Kong;29/03/2020;29/03/2020;460;460;222H;222H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;461;461;223H;223H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;462;462;224H;224H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;463;463;225H;225H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;464;464;226H;226H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;465;465;227H;227H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;466;466;228H;228H
+CX260;CX;260;France → Hong Kong;France;Hong Kong;France;Hong Kong;29/03/2020;29/03/2020;467;467;229H;229H
+CX881;CX;881;Los Angeles → Hong Kong;Los Angeles;Hong Kong;Los Angeles;Hong Kong;29/03/2020;29/03/2020;468;468;230H;230H
+BA27;BA;27;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;469;469;231H;231H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;470;470;232H;232H
+CX260;CX;260;France → Hong Kong;France;Hong Kong;France;Hong Kong;29/03/2020;29/03/2020;471;471;233H;233H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;472;472;234H;234H
+CX238;CX;238;London → Hong Kong;London;Hong Kong;London;Hong Kong;29/03/2020;29/03/2020;473;473;235H;235H
+CX831;CX;831;New York →  Hong Kong;New York; Hong Kong;New York;Hong Kong;30/03/2020;30/03/2020;474;474;236H;236H
+CX811;CX;811;Boston → Hong Kong;Boston;Hong Kong;Boston;Hong Kong;30/03/2020;30/03/2020;475;475;237H;237H
+CX851;CX;851;San Francisco →Hong Kong;San Francisco;ong Kong;San Francisco;Hong Kong;30/03/2020;30/03/2020;476;476;238H;238H
+CX831;CX;831;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;30/03/2020;30/03/2020;477;477;239H;239H
+CX831;CX;831;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;30/03/2020;30/03/2020;478;478;240H;240H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;30/03/2020;30/03/2020;479;479;241H;241H
+CX256;CX;256;London → Hong Kong;London;Hong Kong;London;Hong Kong;30/03/2020;30/03/2020;480;480;242H;242H
+CX831;CX;831;New York → Hong Kong;New York;Hong Kong;New York;Hong Kong;30/03/2020;30/03/2020;481;481;243H;243H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;30/03/2020;30/03/2020;482;482;244H;244H
+GA876;GA;876;Jakarta → Hong Kong;Jakarta;Hong Kong;Jakarta;Hong Kong;31/03/2020;31/03/2020;483;483;245H;245H
+CX216;CX;216;Manchester → Hong Kong;Manchester;Hong Kong;Manchester;Hong Kong;31/03/2020;31/03/2020;484;484;246H;246H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;31/03/2020;31/03/2020;485;485;247H;247H
+VS206;VS;206;London → Hong Kong;London;Hong Kong;London;Hong Kong;31/03/2020;31/03/2020;486;486;248H;248H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;31/03/2020;31/03/2020;487;487;249H;249H
+CX252;CX;252;London → Hong Kong;London;Hong Kong;London;Hong Kong;31/03/2020;31/03/2020;488;488;250H;250H
+CX216;CX;216;Manchester → Hong Kong;Manchester;Hong Kong;Manchester;Hong Kong;31/03/2020;31/03/2020;489;489;251H;251H
+BA 27;BA; 27;London → Hong Kong;London;Hong Kong;London;Hong Kong;01/04/2020;01/04/2020;490;490;252H;252H
+CX252;CX;252;London;London;;London;Hong Kong;04/04/2020;04/04/2020;491;491;253H;253H
+CX216;CX;216;Manchester;Manchester;;Manchester;Hong Kong;04/04/2020;04/04/2020;492;492;254H;254H
+CX252;CX;252;London;London;;London;Hong Kong;04/04/2020;04/04/2020;493;493;255H;255H
+VS206;VS;206;London;London;;London;Hong Kong;04/04/2020;04/04/2020;494;494;256H;256H
+BA27;BA;27;London;London;;London;Hong Kong;04/04/2020;04/04/2020;495;495;257H;257H
+CX521;CX;521;Tokyo;Tokyo;;Tokyo;Hong Kong;04/04/2020;04/04/2020;496;496;258H;258H
+CX521;CX;521;Tokyo;Tokyo;;Tokyo;Hong Kong;04/04/2020;04/04/2020;497;497;259H;259H
+CX841;CX;841;New York;New York;;New York;Hong Kong;04/04/2020;04/04/2020;498;498;260H;260H
+CX260;CX;260;Paris;Paris;;Paris;Hong Kong;04/04/2020;04/04/2020;499;499;261H;261H
+BA27;BA;27;London;London;;London;Hong Kong;04/04/2020;04/04/2020;500;500;262H;262H
+CX260;CX;260;Paris;Paris;;Paris;Hong Kong;04/04/2020;04/04/2020;501;501;263H;263H
+CX252;CX;252;London;London;;London;Hong Kong;04/04/2020;04/04/2020;502;502;264H;264H
+CX841;CX;841;New York;New York;;New York;Hong Kong;04/04/2020;04/04/2020;503;503;265H;265H
+CX260;CX;260;Paris;Paris;;Paris;Hong Kong;04/04/2020;04/04/2020;504;504;266H;266H
+BA27;BA;27;London;London;;London;Hong Kong;05/04/2020;05/04/2020;505;505;267H;267H
+BA27;BA;27;London;London;;London;Hong Kong;05/04/2020;05/04/2020;506;506;268H;268H
+BA27;BA;27;London;London;;London;Hong Kong;05/04/2020;05/04/2020;507;507;269H;269H
+BA27;BA;27;London;London;;London;Hong Kong;05/04/2020;05/04/2020;508;508;270H;270H
+BA27;BA;27;London;London;;London;Hong Kong;05/04/2020;05/04/2020;509;509;271H;271H
+JL29;JL;29;Tokyo;Tokyo;;Tokyo;Hong Kong;05/04/2020;05/04/2020;510;510;272H;272H
+BA27;BA;27;London;London;;London;Hong Kong;05/04/2020;05/04/2020;511;511;273H;273H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;05/04/2020;05/04/2020;512;512;274H;274H
+CX252;CX;252;London;London;;London;Hong Kong;05/04/2020;05/04/2020;513;513;275H;275H
+CX252;CX;252;London;London;;London;Hong Kong;05/04/2020;05/04/2020;514;514;276H;276H
+CX252;CX;252;London;London;;London;Hong Kong;06/04/2020;06/04/2020;515;515;277H;277H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;06/04/2020;06/04/2020;516;516;278H;278H
+VS206;VS;206;London;London;;London;Hong Kong;06/04/2020;06/04/2020;517;517;279H;279H
+VS206;VS;206;London;London;;London;Hong Kong;06/04/2020;06/04/2020;518;518;280H;280H
+VS206;VS;206;London;London;;London;Hong Kong;06/04/2020;06/04/2020;519;519;281H;281H
+CX252;CX;252;London;London;;London;Hong Kong;07/04/2020;07/04/2020;520;520;282H;282H
+CX252;CX;252;London;London;;London;Hong Kong;07/04/2020;07/04/2020;521;521;283H;283H
+CX252;CX;252;London;London;;London;Hong Kong;07/04/2020;07/04/2020;522;522;284H;284H
+CX252;CX;252;London;London;;London;Hong Kong;08/04/2020;08/04/2020;523;523;285H;285H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;08/04/2020;08/04/2020;524;524;286H;286H
+CX865;CX;865;Vancouver;Vancouver;;Vancouver;Hong Kong;08/04/2020;08/04/2020;525;525;287H;287H
+CX865;CX;865;Vancouver;Vancouver;;Vancouver;Hong Kong;08/04/2020;08/04/2020;526;526;288H;288H
+CX252;CX;252;London;London;;London;Hong Kong;08/04/2020;08/04/2020;527;527;289H;289H
+CX252;CX;252;London;London;;London;Hong Kong;08/04/2020;08/04/2020;528;528;290H;290H
+GA876;GA;876;Jakarta;Jakarta;;Jakarta;Hong Kong;08/04/2020;08/04/2020;529;529;291H;291H
+GA876;GA;876;Jakarta;Jakarta;;Jakarta;Hong Kong;08/04/2020;08/04/2020;530;530;292H;292H
+CX252;CX;252;London;London;;London;Hong Kong;09/04/2020;09/04/2020;531;531;293H;293H
+CX252;CX;252;London;London;;London;Hong Kong;09/04/2020;09/04/2020;532;532;294H;294H
+CX521;CX;521;Tokyo;Tokyo;;Tokyo;Hong Kong;09/04/2020;09/04/2020;533;533;295H;295H
+CX521;CX;521;Tokyo;Tokyo;;Tokyo;Hong Kong;09/04/2020;09/04/2020;534;534;296H;296H
+CX521;CX;521;Tokyo;Tokyo;;Tokyo;Hong Kong;09/04/2020;09/04/2020;535;535;297H;297H
+CX252;CX;252;London;London;;London;Hong Kong;10/04/2020;10/04/2020;536;536;298H;298H
+CX252;CX;252;London;London;;London;Hong Kong;10/04/2020;10/04/2020;537;537;299H;299H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;10/04/2020;10/04/2020;538;538;300H;300H
+CX252;CX;252;London;London;;London;Hong Kong;10/04/2020;10/04/2020;539;539;301H;301H
+VS206;VS;206;London;London;;London;Hong Kong;12/04/2020;12/04/2020;540;540;302H;302H
+VS206;VS;206;London;London;;London;Hong Kong;12/04/2020;12/04/2020;541;541;303H;303H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;13/04/2020;13/04/2020;542;542;304H;304H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;13/04/2020;13/04/2020;543;543;305H;305H
+CX252;CX;252;London;London;;London;Hong Kong;14/04/2020;14/04/2020;544;544;306H;306H
+VS206;VS;206;London;London;;London;Hong Kong;14/04/2020;14/04/2020;545;545;307H;307H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;14/04/2020;14/04/2020;546;546;308H;308H
+VS206;VS;206;London;London;;London;Hong Kong;16/04/2020;16/04/2020;547;547;309H;309H
+VS206;VS;206;London;London;;London;Hong Kong;16/04/2020;16/04/2020;548;548;310H;310H
+VS206;VS;206;London;London;;London;Hong Kong;16/04/2020;16/04/2020;549;549;311H;311H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;17/04/2020;17/04/2020;550;550;312H;312H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;20/04/2020;20/04/2020;551;551;313H;313H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;20/04/2020;20/04/2020;552;552;314H;314H
+VS206;VS;206;London;London;;London;Hong Kong;20/04/2020;20/04/2020;553;553;315H;315H
+VS206;VS;206;London;London;;London;Hong Kong;20/04/2020;20/04/2020;554;554;316H;316H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;555;555;317H;317H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;556;556;318H;318H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;557;557;319H;319H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;21/04/2020;21/04/2020;558;558;320H;320H
+CX252;CX;252;London;London;;London;Hong Kong;24/04/2020;24/04/2020;559;559;321H;321H
+CX252;CX;252;London;London;;London;Hong Kong;28/04/2020;28/04/2020;560;560;322H;322H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;04/05/2020;04/05/2020;561;561;323H;323H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;562;562;324H;324H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;563;563;325H;325H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;564;564;326H;326H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;565;565;327H;327H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;09/05/2020;09/05/2020;566;566;328H;328H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;09/05/2020;09/05/2020;567;567;329H;329H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;09/05/2020;09/05/2020;568;568;330H;330H
+CX252;CX;252;London;London;;London;Hong Kong;10/05/2020;10/05/2020;569;569;331H;331H
+BA27;BA;27;London;London;;London;Hong Kong;10/05/2020;10/05/2020;570;570;332H;332H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;20/04/2020;20/04/2020;571;571;333H;333H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;20/04/2020;20/04/2020;572;572;334H;334H
+VS206;VS;206;London;London;;London;Hong Kong;20/04/2020;20/04/2020;573;573;335H;335H
+VS206;VS;206;London;London;;London;Hong Kong;20/04/2020;20/04/2020;574;574;336H;336H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;575;575;337H;337H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;576;576;338H;338H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;577;577;339H;339H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;21/04/2020;21/04/2020;578;578;340H;340H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;20/04/2020;20/04/2020;579;579;341H;341H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;20/04/2020;20/04/2020;580;580;342H;342H
+VS206;VS;206;London;London;;London;Hong Kong;20/04/2020;20/04/2020;581;581;343H;343H
+VS206;VS;206;London;London;;London;Hong Kong;20/04/2020;20/04/2020;582;582;344H;344H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;583;583;345H;345H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;584;584;346H;346H
+CX252;CX;252;London;London;;London;Hong Kong;21/04/2020;21/04/2020;585;585;347H;347H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;21/04/2020;21/04/2020;586;586;348H;348H
+CX252;CX;252;London;London;;London;Hong Kong;24/04/2020;24/04/2020;587;587;349H;349H
+CX252;CX;252;London;London;;London;Hong Kong;28/04/2020;28/04/2020;588;588;350H;350H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;04/05/2020;04/05/2020;589;589;351H;351H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;590;590;352H;352H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;591;591;353H;353H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;592;592;354H;354H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;06/05/2020;06/05/2020;593;593;355H;355H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;09/05/2020;09/05/2020;594;594;356H;356H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;09/05/2020;09/05/2020;595;595;357H;357H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;09/05/2020;09/05/2020;596;596;358H;358H
+CX252;CX;252;London;London;;London;Hong Kong;10/05/2020;10/05/2020;597;597;359H;359H
+BA27;BA;27;London;London;;London;Hong Kong;10/05/2020;10/05/2020;598;598;360H;360H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;16/05/2020;16/05/2020;599;599;361H;361H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;16/05/2020;16/05/2020;600;600;362H;362H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;16/05/2020;16/05/2020;601;601;363H;363H
+CX252;CX;252;London;London;;London;Hong Kong;17/05/2020;17/05/2020;602;602;364H;364H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/05/2020;20/05/2020;603;603;365H;365H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/05/2020;20/05/2020;604;604;366H;366H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/05/2020;20/05/2020;605;605;367H;367H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/05/2020;20/05/2020;606;606;368H;368H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/05/2020;20/05/2020;607;607;369H;369H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/05/2020;20/05/2020;608;608;370H;370H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/05/2020;20/05/2020;609;609;371H;371H
+CX252;CX;252;London;London;;London;Hong Kong;22/05/2020;22/05/2020;610;610;372H;372H
+CX521;CX;521;Tokyo;Tokyo;;Tokyo;Hong Kong;26/05/2020;26/05/2020;611;611;373H;373H
+KL887;KL;887;Amsterdam;Amsterdam;;Amsterdam;Hong Kong;27/05/2020;27/05/2020;612;612;374H;374H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;613;613;375H;375H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;614;614;376H;376H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;615;615;377H;377H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;616;616;378H;378H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;617;617;379H;379H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;618;618;380H;380H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;619;619;381H;381H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;620;620;382H;382H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;621;621;383H;383H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;622;622;384H;384H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;623;623;385H;385H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;624;624;386H;386H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;625;625;387H;387H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;626;626;388H;388H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;627;627;389H;389H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;28/05/2020;28/05/2020;628;628;390H;390H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;03/06/2020;03/06/2020;629;629;391H;391H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;03/06/2020;03/06/2020;630;630;392H;392H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;03/06/2020;03/06/2020;631;631;393H;393H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;03/06/2020;03/06/2020;632;632;394H;394H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;03/06/2020;03/06/2020;633;633;395H;395H
+AC007;AC;007;Vancouver;Vancouver;;Vancouver;Hong Kong;04/06/2020;04/06/2020;634;634;396H;396H
+CX252;CX;252;London;London;;London;Hong Kong;05/06/2020;05/06/2020;635;635;397H;397H
+BA31;BA;31;London;London;;London;Hong Kong;05/06/2020;05/06/2020;636;636;398H;398H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;06/06/2020;06/06/2020;637;637;399H;399H
+GA876;GA;876;Jakarta;Jakarta;;Jakarta;Hong Kong;14/6/2020;14/6/2020;638;638;400H;400H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;16/6/2020;16/6/2020;639;639;401H;401H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;640;640;402H;402H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;641;641;403H;403H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;642;642;404H;404H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;643;643;405H;405H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;644;644;406H;406H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;645;645;407H;407H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;16/6/2020;16/6/2020;646;646;408H;408H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;647;647;409H;409H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;648;648;410H;410H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;649;649;411H;411H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;16/6/2020;16/6/2020;650;650;412H;412H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;19/6/2020;19/6/2020;651;651;413H;413H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;20/6/2020;20/6/2020;652;652;414H;414H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;653;653;415H;415H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;654;654;416H;416H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;655;655;417H;417H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;656;656;418H;418H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;657;657;419H;419H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;658;658;420H;420H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;659;659;421H;421H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;660;660;422H;422H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;661;661;423H;423H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;662;662;424H;424H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;663;663;425H;425H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;664;664;426H;426H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;665;665;427H;427H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;666;666;428H;428H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;667;667;429H;429H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;668;668;430H;430H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;669;669;431H;431H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;670;670;432H;432H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;671;671;433H;433H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;672;672;434H;434H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;673;673;435H;435H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;674;674;436H;436H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;675;675;437H;437H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;676;676;438H;438H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;677;677;439H;439H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;20/6/2020;20/6/2020;678;678;440H;440H
+CX798;CX;798;Jakarta;Jakarta;;Jakarta;Hong Kong;21/6/2020;21/6/2020;679;679;441H;441H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;21/6/2020;21/6/2020;680;680;442H;442H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;21/6/2020;21/6/2020;681;681;443H;443H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;21/6/2020;21/6/2020;682;682;444H;444H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;21/6/2020;21/6/2020;683;683;445H;445H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;23/06/2020;23/06/2020;684;684;446H;446H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;685;685;447H;447H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;686;686;448H;448H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;687;687;449H;449H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;688;688;450H;450H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;689;689;451H;451H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;690;690;452H;452H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;691;691;453H;453H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;692;692;454H;454H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;693;693;455H;455H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;694;694;456H;456H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;695;695;457H;457H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;696;696;458H;458H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;697;697;459H;459H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;23/06/2020;23/06/2020;698;698;460H;460H
+KL887;KL;887;Amsterdam;Amsterdam;;Amsterdam;Hong Kong;23/06/2020;23/06/2020;699;699;461H;461H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/06/2020;24/06/2020;700;700;462H;462H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;24/06/2020;24/06/2020;701;701;463H;463H
+TK0070;TK;0070;Istanbul;Istanbul;;Istanbul;Hong Kong;25/06/2020;25/06/2020;702;702;464H;464H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;25/06/2020;25/06/2020;703;703;465H;465H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;26/06/2020;26/06/2020;704;704;466H;466H
+AI1314;AI;1314;Delhi and Kolkata;Delhi and Kolkata;;Delhi and Kolkata;Hong Kong;27/06/2020;27/06/2020;705;705;467H;467H
+AI1314;AI;1314;Delhi and Kolkata;Delhi and Kolkata;;Delhi and Kolkata;Hong Kong;27/06/2020;27/06/2020;706;706;468H;468H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;28/06/2020;28/06/2020;707;707;469H;469H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;28/06/2020;28/06/2020;708;708;470H;470H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;28/06/2020;28/06/2020;709;709;471H;471H
+OZ721;OZ;721;Seoul;Seoul;;Seoul;Hong Kong;30/06/2020;30/06/2020;710;710;472H;472H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;30/06/2020;30/06/2020;711;711;473H;473H
+ET5611;ET;5611;Mumbai;Mumbai;;Mumbai;Hong Kong;30/06/2020;30/06/2020;712;712;474H;474H
+GA876;GA;876;Jakarta;Jakarta;;Jakarta;Hong Kong;01/07/2020;01/07/2020;713;713;475H;475H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;714;714;476H;476H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;715;715;477H;477H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;716;716;478H;478H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;717;717;479H;479H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;718;718;480H;480H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;719;719;481H;481H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;720;720;482H;482H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;721;721;483H;483H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;01/07/2020;01/07/2020;722;722;484H;484H
+TK70;TK;70;Istanbul;Istanbul;;Istanbul;Hong Kong;02/07/2020;02/07/2020;723;723;485H;485H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;02/07/2020;02/07/2020;724;724;486H;486H
+BA031;BA;031;London;London;;London;Hong Kong;02/07/2020;02/07/2020;725;725;487H;487H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;03/07/2020;03/07/2020;726;726;488H;488H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;03/07/2020;03/07/2020;727;727;489H;489H
+BR871;BR;871;Taipei;Taipei;;Taipei;Hong Kong;03/07/2020;03/07/2020;728;728;490H;490H
+AC7;AC;7;Vancouver;Vancouver;;Vancouver;Hong Kong;03/07/2020;03/07/2020;729;729;491H;491H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;03/07/2020;03/07/2020;730;730;492H;492H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;03/07/2020;03/07/2020;731;731;493H;493H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;03/07/2020;03/07/2020;732;732;494H;494H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;03/07/2020;03/07/2020;733;733;495H;495H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;03/07/2020;03/07/2020;734;734;496H;496H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;735;735;497H;497H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;736;736;498H;498H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;737;737;499H;499H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;738;738;500H;500H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;739;739;501H;501H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;740;740;502H;502H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;741;741;503H;503H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;742;742;504H;504H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;743;743;505H;505H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;04/07/2020;04/07/2020;744;744;506H;506H
+AI310;AI;310;New Delhi;New Delhi;;New Delhi;Hong Kong;05/07/2020;05/07/2020;745;745;507H;507H
+AI310;AI;310;New Delhi;New Delhi;;New Delhi;Hong Kong;05/07/2020;05/07/2020;746;746;508H;508H
+AI310;AI;310;New Delhi;New Delhi;;New Delhi;Hong Kong;05/07/2020;05/07/2020;747;747;509H;509H
+AI310;AI;310;New Delhi;New Delhi;;New Delhi;Hong Kong;05/07/2020;05/07/2020;748;748;510H;510H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;05/07/2020;05/07/2020;749;749;511H;511H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;05/07/2020;05/07/2020;750;750;512H;512H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;05/07/2020;05/07/2020;751;751;513H;513H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;05/07/2020;05/07/2020;752;752;514H;514H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;05/07/2020;05/07/2020;753;753;515H;515H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;05/07/2020;05/07/2020;754;754;516H;516H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;05/07/2020;05/07/2020;755;755;517H;517H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;06/07/2020;06/07/2020;756;756;518H;518H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;08/07/2020;08/07/2020;757;757;519H;519H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;08/07/2020;08/07/2020;758;758;520H;520H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;08/07/2020;08/07/2020;759;759;521H;521H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;08/07/2020;08/07/2020;760;760;522H;522H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;08/07/2020;08/07/2020;761;761;523H;523H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;09/07/2020;09/07/2020;762;762;524H;524H
+AF188;AF;188;Paris;Paris;;Paris;Hong Kong;09/07/2020;09/07/2020;763;763;525H;525H
+LH796;LH;796;Frankfurt;Frankfurt;;Frankfurt;Hong Kong;09/07/2020;09/07/2020;764;764;526H;526H
+TK70;TK;70;Istanbul;Istanbul;;Istanbul;Hong Kong;09/07/2020;09/07/2020;765;765;527H;527H
+AZG628;AZ;G628;Baku;Baku;;Baku;Hong Kong;09/07/2020;09/07/2020;766;766;528H;528H
+CX903;CX;903;Manila;Manila;;Manila;Hong Kong;09/07/2020;09/07/2020;767;767;529H;529H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;768;768;530H;530H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;769;769;531H;531H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;770;770;532H;532H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;771;771;533H;533H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;772;772;534H;534H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;773;773;535H;535H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;774;774;536H;536H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;775;775;537H;537H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;10/07/2020;10/07/2020;776;776;538H;538H
+EK380;EK;380;Dubai;Dubai;;Dubai;Hong Kong;10/07/2020;10/07/2020;777;777;539H;539H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;10/07/2020;10/07/2020;778;778;540H;540H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;11/07/2020;11/07/2020;779;779;541H;541H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;11/07/2020;11/07/2020;780;780;542H;542H
+EK382;EK;382;Dubai;Dubai;;Dubai;Hong Kong;11/07/2020;11/07/2020;781;781;543H;543H
+QR858;QR;858;Doha;Doha;;Doha;Hong Kong;11/07/2020;11/07/2020;782;782;544H;544H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;12/07/2020;12/07/2020;783;783;545H;545H
+6E8603;6E;8603;New Delhi;New Delhi;;New Delhi;Hong Kong;12/07/2020;12/07/2020;784;784;546H;546H
+GA876;GA;876;Jakarta;Jakarta;;Jakarta;Hong Kong;12/07/2020;12/07/2020;785;785;547H;547H
+AY99;AY;99;Helsinki;Helsinki;;Helsinki;Hong Kong;12/07/2020;12/07/2020;786;786;548H;548H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;12/07/2020;12/07/2020;787;787;549H;549H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;12/07/2020;12/07/2020;788;788;550H;550H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;12/07/2020;12/07/2020;789;789;551H;551H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;12/07/2020;12/07/2020;790;790;552H;552H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;12/07/2020;12/07/2020;791;791;553H;553H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;12/07/2020;12/07/2020;792;792;554H;554H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;12/07/2020;12/07/2020;793;793;555H;555H
+KL887;KL;887;Amsterdam;Amsterdam;;Amsterdam;Hong Kong;13/07/2020;13/07/2020;794;794;556H;556H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;13/07/2020;13/07/2020;795;795;557H;557H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;13/07/2020;13/07/2020;796;796;558H;558H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;13/07/2020;13/07/2020;797;797;559H;559H
+RL9946;RL;9946;Mumbai;Mumbai;;Mumbai;Hong Kong;13/07/2020;13/07/2020;798;798;560H;560H
+BR871;BR;871;Taipei;Taipei;;Taipei;Hong Kong;13/07/2020;13/07/2020;799;799;561H;561H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;13/07/2020;13/07/2020;800;800;562H;562H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;14/07/2020;14/07/2020;801;801;563H;563H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;14/07/2020;14/07/2020;802;802;564H;564H
+GA876;GA;876;Jakarta;Jakarta;;Jakarta;Hong Kong;14/07/2020;14/07/2020;803;803;565H;565H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;15/07/2020;15/07/2020;804;804;566H;566H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;15/07/2020;15/07/2020;805;805;567H;567H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;15/07/2020;15/07/2020;806;806;568H;568H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;15/07/2020;15/07/2020;807;807;569H;569H
+KA734;KA;734;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;Hong Kong;15/07/2020;15/07/2020;808;808;570H;570H
+ET3728;ET;3728;Addis Ababa;Addis Ababa;;Addis Ababa;Hong Kong;16/07/2020;16/07/2020;809;809;571H;571H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;16/07/2020;16/07/2020;810;810;572H;572H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;811;811;573H;573H
+NH1929;NH;1929;Tokyo;Tokyo;;Tokyo;Hong Kong;17/07/2020;17/07/2020;812;812;574H;574H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;813;813;575H;575H
+NH1929;NH;1929;Tokyo;Tokyo;;Tokyo;Hong Kong;17/07/2020;17/07/2020;814;814;576H;576H
+BR871;BR;871;Taipei;Taipei;;Taipei;Hong Kong;17/07/2020;17/07/2020;815;815;577H;577H
+BR871;BR;871;Taipei;Taipei;;Taipei;Hong Kong;17/07/2020;17/07/2020;816;816;578H;578H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;817;817;579H;579H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;818;818;580H;580H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;819;819;581H;581H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;820;820;582H;582H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;821;821;583H;583H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;822;822;584H;584H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;823;823;585H;585H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;824;824;586H;586H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;17/07/2020;17/07/2020;825;825;587H;587H
+CX881;CX;881;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;18/07/2020;18/07/2020;826;826;588H;588H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;18/07/2020;18/07/2020;827;827;589H;589H
+KL887;KL;887;Amsterdam;Amsterdam;;Amsterdam;Hong Kong;18/07/2020;18/07/2020;828;828;590H;590H
+TK070;TK;070;Istanbul;Istanbul;;Istanbul;Hong Kong;18/07/2020;18/07/2020;829;829;591H;591H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;18/07/2020;18/07/2020;830;830;592H;592H
+ET3618;ET;3618;Seoul;Seoul;;Seoul;Hong Kong;18/07/2020;18/07/2020;831;831;593H;593H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;19/07/2020;19/07/2020;832;832;594H;594H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;19/07/2020;19/07/2020;833;833;595H;595H
+CX883;CX;883;Los Angeles;Los Angeles;;Los Angeles;Hong Kong;20/07/2020;20/07/2020;834;834;596H;596H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;20/07/2020;20/07/2020;835;835;597H;597H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;21/07/2020;21/07/2020;836;836;598H;598H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;21/07/2020;21/07/2020;837;837;599H;599H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;21/07/2020;21/07/2020;838;838;600H;600H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;23/07/2020;23/07/2020;839;839;601H;601H
+6E8603;6E;8603;New Delhi;New Delhi;;New Delhi;Hong Kong;23/07/2020;23/07/2020;840;840;602H;602H
+6E8603;6E;8603;New Delhi;New Delhi;;New Delhi;Hong Kong;23/07/2020;23/07/2020;841;841;603H;603H
+LX138;LX;138;Zurich;Zurich;;Zurich;Hong Kong;23/07/2020;23/07/2020;842;842;604H;604H
+6E8603;6E;8603;New Delhi;New Delhi;;New Delhi;Hong Kong;23/07/2020;23/07/2020;843;843;605H;605H
+6E8603;6E;8603;New Delhi;New Delhi;;New Delhi;Hong Kong;23/07/2020;23/07/2020;844;844;606H;606H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;845;845;607H;607H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;846;846;608H;608H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;847;847;609H;609H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;24/07/2020;24/07/2020;848;848;610H;610H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;849;849;611H;611H
+BA031;BA;031;London;London;;London;Hong Kong;24/07/2020;24/07/2020;850;850;612H;612H
+BG78;BG;78;Dhaka;Dhaka;;Dhaka;Hong Kong;24/07/2020;24/07/2020;851;851;613H;613H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;24/07/2020;24/07/2020;852;852;614H;614H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;24/07/2020;24/07/2020;853;853;615H;615H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;854;854;616H;616H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;855;855;617H;617H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;856;856;618H;618H
+HX782;HX;782;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;857;857;619H;619H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;858;858;620H;620H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;859;859;621H;621H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;860;860;622H;622H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;861;861;623H;623H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;862;862;624H;624H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;863;863;625H;625H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;864;864;626H;626H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;865;865;627H;627H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;866;866;628H;628H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;867;867;629H;629H
+PR300;PR;300;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;868;868;630H;630H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;24/07/2020;24/07/2020;869;869;631H;631H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;25/07/2020;25/07/2020;870;870;632H;632H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;26/07/2020;26/07/2020;871;871;633H;633H
+RU645;RU;645;Moscow;Moscow;;Moscow;Hong Kong;26/07/2020;26/07/2020;872;872;634H;634H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;26/07/2020;26/07/2020;873;873;635H;635H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;26/07/2020;26/07/2020;874;874;636H;636H
+ETH3716;ET;H3716;Addis Ababa;Addis Ababa;;Addis Ababa;Hong Kong;26/07/2020;26/07/2020;875;875;637H;637H
+CX798;CX;798;Jakarta;Jakarta;;Jakarta;Hong Kong;26/07/2020;26/07/2020;876;876;638H;638H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;26/07/2020;26/07/2020;877;877;639H;639H
+AC007;AC;007;Vancouver;Vancouver;;Vancouver;Hong Kong;27/07/2020;27/07/2020;878;878;640H;640H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;27/07/2020;27/07/2020;879;879;641H;641H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;27/07/2020;27/07/2020;880;880;642H;642H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;27/07/2020;27/07/2020;881;881;643H;643H
+ET644;ET;644;Manila;Manila;;Manila;Hong Kong;28/07/2020;28/07/2020;882;882;644H;644H
+QR818;QR;818;Doha;Doha;;Doha;Hong Kong;29/07/2020;29/07/2020;883;883;645H;645H
+KL887;KL;887;Amsterdam;Amsterdam;;Amsterdam;Hong Kong;29/07/2020;29/07/2020;884;884;646H;646H
+CX252;CX;252;London;London;;London;Hong Kong;31/07/2020;31/07/2020;885;885;647H;647H
+CX906;CX;906;Manila;Manila;;Manila;Hong Kong;31/07/2020;31/07/2020;886;886;648H;648H
+CX798;CX;798;Jakarta;Jakarta;;Jakarta;Hong Kong;01/08/2020;01/08/2020;887;887;649H;649H
+BA031;BA;031;London;London;;London;Hong Kong;02/08/2020;02/08/2020;888;888;650H;650H
+ET645;ET;645;Manila;Manila;;Manila;Hong Kong;02/08/2020;02/08/2020;889;889;651H;651H
+AI310;AI;310;New Delhi;New Delhi;;New Delhi;Hong Kong;04/08/2020;04/08/2020;890;890;652H;652H
+AI310;AI;310;New Delhi;New Delhi;;New Delhi;Hong Kong;04/08/2020;04/08/2020;891;891;653H;653H
+AI310;AI;310;New Delhi;New Delhi;;New Delhi;Hong Kong;04/08/2020;04/08/2020;892;892;654H;654H

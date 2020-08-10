@@ -9,7 +9,7 @@ import (
 
 func main() {
 
-	csvfile, err := os.Open("./csv_files/full_list_cleaned.csv")
+	csvfile, err := os.Open("./csv_files/master.csv")
 
 	if err != nil {
 		log.Fatalln("Could not open the csv file", err)

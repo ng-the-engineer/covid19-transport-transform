@@ -29,3 +29,6 @@ Run
 5. Replace all the double quote "\"" in the file content to empty string
 
 6. Run the app to validate the file.
+
+
+full_list.csv -> master.csv -> master_flight_only.csv -> master_flight_only_cleaned.csv -> flights.json
